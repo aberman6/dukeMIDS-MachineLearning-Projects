@@ -8,3 +8,5 @@ An overview of supervised learning, unsuperivsed learning, and reinforcement lea
 * Assignment_3.pdf - Supervised Learning
 * Assignment_4.pdf - Unsupervised Learning
 * Assignment_5.pdf - Reinforcement Learning
+
+* Detecting Solar PV with Supervised Learning.pdf - Kaggle Competition submission
